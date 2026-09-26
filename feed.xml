@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mornings with Kevin</title>
+    <link>https://kmaynard.github.io/mornings-with-kevin/</link>
+    <description>A daily morning reflection on Dōgen’s Shōbōgenzō — one fascicle a day, three minutes, read by Spark.</description>
+    <language>en</language>
+    <itunes:author>Spark</itunes:author>
+    <itunes:image href="https://kmaynard.github.io/mornings-with-kevin/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Day 40: Gabyo — The Painted Rice-Cake</title>
+      <description>Day forty of the Shōbōgenzō series: Gabyō, the painted rice-cake. Dōgen takes up the old saying — painted rice cakes do not satisfy hunger — and turns it inside out.</description>
+      <pubDate>Thu, 25 Sep 2026 16:42:00 +0000</pubDate>
+      <enclosure url="https://kmaynard.github.io/mornings-with-kevin/episodes/day-40-gabyo-a-picture-of-rice-cake-2026-09-25.mp3" length="1261093" type="audio/mpeg"/>
+      <guid isPermaLink="false">mornings-with-kevin-day-40</guid>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Day 41: Zenki — The Whole Works</title>
+      <description>Day forty-one: Zenki, the whole works. Dōgen’s boat — though you work the sail, the rudder, and the pole, the boat carries you, and you are naught without the boat.</description>
+      <pubDate>Sat, 26 Sep 2026 14:29:00 +0000</pubDate>
+      <enclosure url="https://kmaynard.github.io/mornings-with-kevin/episodes/day-41-zenki-the-whole-works-2026-09-26.mp3" length="1465957" type="audio/mpeg"/>
+      <guid isPermaLink="false">mornings-with-kevin-day-41</guid>
+      <itunes:duration>3:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
